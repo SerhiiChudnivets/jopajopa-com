@@ -1,0 +1,86 @@
+{
+  "name": "jopajopa.com",
+  "site_name": null,
+  "html_head": null,
+  "url": "jopajopa.com",
+  "template": "classic-casino",
+  "language_code": "ennn",
+  "allow_indexing": false,
+  "redirect_404s_to_homepage": true,
+  "use_www_version": true,
+  "content": null,
+  "pages": [],
+  "faq_schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "aaa",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "adadad"
+        }
+      }
+    ]
+  },
+  "hero_title": "test 1",
+  "hero_subtitle": "test 1 test 1",
+  "hero_badge": "test 12111",
+  "cta_text": "BTN1",
+  "accent_color": "#d4af37",
+  "tagline": null,
+  "features_list": null,
+  "footer_text": null,
+  "popup_text": null,
+  "gpt_prompt": null,
+  "subdomains": null,
+  "redirect_site": null,
+  "main_background": "#405b0c",
+  "secondary_background": "#3a9229",
+  "button_background": "#6d6def",
+  "button_text": "#fffefe",
+  "text_color": "#ddd7d7",
+  "color_highlight_text": "#58bb63",
+  "faq_title": "adad",
+  "login_text": null,
+  "register_text": null,
+  "slots_title": null,
+  "bonus_title": null,
+  "get_bonus_btn_text": null,
+  "color_main_btn_text": null,
+  "redirect_link": null,
+  "logo": null,
+  "popup_logo": null,
+  "main_background_img": null,
+  "Slots": [],
+  "Bonuses": [],
+  "FAQ": [
+    {
+      "id": 357,
+      "question": "aaa",
+      "answer": "adadad"
+    }
+  ],
+  "redirects": [],
+  "cloudflare_account": {
+    "id": 10,
+    "documentId": "sggqbpqk5o6b5mpmxa8tg8pc",
+    "name": "Gleba",
+    "email": "altabras2222@gmail.com",
+    "api_key": "cfk_bG748xLuaUVxMsBgrOKbctqfv0WwIhGCVxMCBZCye7de1dee",
+    "account_id": "7c1cb5c78e4e734954d83f126c568c85",
+    "notes": null,
+    "is_active": true,
+    "createdAt": "2026-03-31T15:12:44.560Z",
+    "updatedAt": "2026-03-31T15:13:46.665Z",
+    "publishedAt": "2026-03-31T15:13:46.639Z",
+    "locale": null
+  },
+  "header_menu": [],
+  "footer_menu": [],
+  "_generated_at": "2026-04-08T10:32:30.951Z",
+  "_version": "1.0.0",
+  "_last_deploy": "2026-04-08T10:32:32.448Z",
+  "_deploy_trigger": "kredwi"
+}
